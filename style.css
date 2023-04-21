@@ -1,0 +1,239 @@
+.centerheader {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.centertextheader {
+  text-align: center;
+  margin-top: -10px;
+}
+h1 {
+    color: #3F3F3F;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.menu {
+  display:inline-flex;
+  gap: 30px; 
+  margin-left: 400px;
+}
+iframe {
+  align-content: space-around;
+}
+.conteneurads {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.substack {
+  width: 1000px;
+  height: 300px;
+}
+.imgads {
+  width: 400px;
+  height: 300px;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .centerimgquote {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+  }
+  .centerbaseball {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+.quote {
+    font-style: italic; 
+    text-align: center;
+}
+.quotemember {
+    text-align: center;
+}
+.quoteactivemember {
+  text-align: center;
+  margin-top: -15px;
+  margin-bottom: 30px;
+}
+.centerlink {
+    text-align: center; 
+}
+.centerlinkfootballnewsletterhome {
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 15px; 
+}
+.centerlinkbasketballnewsletterhome {
+  text-align: center;
+  margin-top: -25px;
+  margin-bottom: 40px; 
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    text-decoration-color: grey;
+}
+.suitecasesize {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.hintsize {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+.centerimgtuto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  .conteneurpdf {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  .imgpdf {
+    width: 500px;
+    height: 700px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 100px;
+    width: 100%;
+  }
+  input {
+    padding: 10px; 
+    border: 1px solid black;
+  }
+  h2 {
+    color: #3F3F3F;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+  .centertext {
+    text-align: center;
+  }
+  .textpost {
+    font-family: 'Roboto', sans-serif;
+    color: #3F3F3F;
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+  br {
+    display: block;
+    margin-top: 20px;
+    content: "";
+  }
+  .createateam {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .tableofcontentkickoff {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .textpostitalic {
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    color: #3F3F3F;
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+  .imgtel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 60%;
+  }
+  .imgplayernotifications {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 60%;
+  }
+.imgexclusivetuto {
+  margin-left: 30px;
+  margin-right: 20px;
+  width: 30%;
+  height: 30%;
+}
+.imgexclusivepodcasts {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 30%;
+  height: 30%;
+}
+.imgexclusiveanalysis {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 30%;
+  height: 30%;
+}
+.imgexclusiveinterviews {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 100%;
+  height: 600px;
+}
+.imgteamboris {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 500px;
+}
+.imginstaaboutus {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+  height: 5%;
+}
+.imglinkedinaboutus {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+  height: 5%;
+}
+.imgteamjules {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 600px;
+}
